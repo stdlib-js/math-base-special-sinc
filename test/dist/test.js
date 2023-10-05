@@ -31,11 +31,11 @@ var sinc = require( './../../dist' );
 
 // FIXTURES //
 
-var data = require( './../..xtures/julia/data.json' );
-var largeNegative = require( './../..xtures/julia/large_negative.json' );
-var largePositive = require( './../..xtures/julia/large_positive.json' );
-var tinyNegative = require( './../..xtures/julia/tiny_negative.json' );
-var tinyPositive = require( './../..xtures/julia/tiny_positive.json' );
+var data = require( './../fixtures/julia/data.json' );
+var largeNegative = require( './../fixtures/julia/large_negative.json' );
+var largePositive = require( './../fixtures/julia/large_positive.json' );
+var tinyNegative = require( './../fixtures/julia/tiny_negative.json' );
+var tinyPositive = require( './../fixtures/julia/tiny_positive.json' );
 
 
 // TESTS //
