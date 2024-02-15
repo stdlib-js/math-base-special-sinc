@@ -65,6 +65,11 @@ for any real number `x`.
 ## Usage
 
 ```javascript
+import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-sinc/tags). For example,
+
+```javascript
 import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@v0.2.0-esm/index.mjs';
 ```
 
@@ -103,7 +108,7 @@ v = sinc( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@v0.2.0-esm/index.mjs';
+import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@esm/index.mjs';
 
 var x = linspace( -5.0, 5.0, 100 );
 
