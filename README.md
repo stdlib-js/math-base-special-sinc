@@ -65,7 +65,7 @@ for any real number `x`.
 ## Usage
 
 ```javascript
-import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@deno/mod.js';
+import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@v0.2.2-deno/mod.js';
 ```
 
 #### sinc( x )
@@ -98,7 +98,7 @@ v = sinc( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@deno/mod.js';
+import sinc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinc@v0.2.2-deno/mod.js';
 
 var x = linspace( -5.0, 5.0, 100 );
 
