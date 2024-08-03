@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8a97c7d`](https://github.com/stdlib-js/stdlib/commit/8a97c7dbcb07a873fe7395156cfa1fa40beb1dad) - **chore:** update package meta data [(#2738)](https://github.com/stdlib-js/stdlib/pull/2738) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`759e667`](https://github.com/stdlib-js/stdlib/commit/759e6676d54a121a5458edbe0f6caa541c465001) - **feat:** add C implementation for `math/base/special/sinc` _(by Gunj Joshi)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
