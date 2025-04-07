@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-14)
+## Unreleased (2025-04-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`c741f19`](https://github.com/stdlib-js/stdlib/commit/c741f19410c565ec113a79a399dde2181761ad94) - **bench:** update random value generation [(#6036)](https://github.com/stdlib-js/stdlib/pull/6036) _(by Karan Anand)_
 -   [`8a97c7d`](https://github.com/stdlib-js/stdlib/commit/8a97c7dbcb07a873fe7395156cfa1fa40beb1dad) - **chore:** update package meta data [(#2738)](https://github.com/stdlib-js/stdlib/pull/2738) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`759e667`](https://github.com/stdlib-js/stdlib/commit/759e6676d54a121a5458edbe0f6caa541c465001) - **feat:** add C implementation for `math/base/special/sinc` _(by Gunj Joshi)_
